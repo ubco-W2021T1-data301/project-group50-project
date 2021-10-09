@@ -1,3 +1,3 @@
 # Processed Data Folder
 
-- `processed` - You can place cleaned up, and processed data files in this directory.
+- `processed` - This directory contains processed data set files (not the original data set but more refined versions). 
