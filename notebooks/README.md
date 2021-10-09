@@ -8,3 +8,7 @@
 
 # Description
 The Notebook directory will hold all three group members work from jupyter notebook on the project and we have a folder to store anything else that we might find useful but will not be graded. 
+<<<<<<< HEAD
+
+=======
+>>>>>>> ed6b4f3ea6cea8e276c19c3c820d13e3f9a40b63
