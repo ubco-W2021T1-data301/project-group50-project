@@ -1,4 +1,4 @@
-# Data
+# Data 
 
-- `data/raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
-- `data/processed` - You can add cleaned up, and processed data files in this directory.
+- `data` - Both sets of data files, one being the original raw data set and the second being the processed, cleaned-up data set is found in this directory. 
+
