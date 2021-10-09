@@ -1,3 +1,3 @@
 # Raw Data Folder
 
-- `raw` - raw data should go in this directory; you should add the original source file here. Always keep the original data file without editing.
+- `raw` - This directory contains the original raw data set file downloaded from https://portal.edirepository.org/nis/mapbrowse?packageid=edi.176.5. 
