@@ -16,7 +16,7 @@ Our dataset is provided by the Environmental Data Initiative (EDI) Data Portal a
 
 ## Team Members
 
-- Jasmine Han: 
+- Jasmine Han: Hi! I am a fourth year microbiology major. In my free time I like to work in the lab, cook, watch shows and tend to my plants!
 - Alex Yue: I am a fourth year Business Management Major and I grew up in Singapore! 
 - Komal Rehill: I am a fourth year Biology Major and Psychology Minor who just recently became interested in coding.
 
