@@ -1,9 +1,13 @@
+# Import libraries 
+import numpy as np 
+import pandas as pd 
+
 def load_and_process(pathname):
 
     # Method Chain 1 (Load data and deal with missing data)
 
     df1 = (
-          pd.read_csv("../data/raw/EMLSdata_10Aug.csv")
+          pd.read_csv(pathname)
           .drop(["Lake_ID","LabName","Altitude_m", "SamplingDepth_m", "ThermoclineDepth_m", "SecchiDepth_m"], axis = 1)
           .dropna(axis=0)
           .drop(columns=df_method_chaining.columns[df_method_chaining.eq(0).mean()>0.55])
