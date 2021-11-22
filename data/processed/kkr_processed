@@ -1,0 +1,290 @@
+Lake Name,Country,Concentration of total phosphorus (mgL),Concentration of cyanobacterial hepatotoxin microcystin YR (ugL),Concentration of cyanobacterial hepatotoxin microcystin dmRR (ugL),Concentration of cyanobacterial hepatotoxin microcystin RR (ugL),Concentration of cyanobacterial hepatotoxin microcystin dmLR (ugL),Concentration of cyanobacterial hepatotoxin microcystin LR (ugL)
+Geffense,Netherlands,0.0,0.0,0.0,0.0,0.0,0.0
+Derwent,UK,0.01,0.0,0.0,0.0,0.0,0.0
+Krankesjon,Sweden,0.01,0.046,0.0,0.0,0.0115,0.4887
+Goreckie,Poland,0.02,0.032,0.3023,0.0,0.2529,0.0
+Caldonazzo,Italy,0.02,0.0,0.0577,0.0,0.0034,0.0
+Lednica,Poland,0.02,0.0,0.0,0.0,0.0,0.0
+Peetschsee,Germany,0.02,0.0,0.047,0.0,0.0028,0.0
+Pfsarrsee,Germany,0.02,0.015,0.3318,0.0,0.0199,0.0
+Roofensee,Germany,0.02,0.002,0.0,0.0,0.0028,0.0557
+Beysehir_2,Turkey,0.02,0.0,0.0,0.0,0.0,0.0
+Dziekanowskie,Poland,0.02,0.0,0.0,0.0,0.0,0.0
+Bukowieckie Mate,Poland,0.02,0.002,0.0261,0.0258,0.0028,0.0344
+Bukowieckie Dute,Poland,0.02,0.006,0.0218,0.0281,0.0028,0.048
+Lyngby ,Denmark,0.02,0.025,0.0,0.0529,0.0392,0.0364
+Borabay,Turkey,0.02,0.0,0.0,0.0,0.0,0.0
+Vansjo-Storefjorden,Norway,0.02,0.002,0.0,0.0,0.0028,0.0042
+Gici,Turkey,0.02,0.002,0.0,0.0,0.0,0.0
+Embalse de Arcos de la Frontera,Spain,0.02,0.002,0.0,0.0,0.0028,0.0142
+La Baells,Spain,0.02,0.0,0.0,0.0,0.0,0.0
+Plaas aan de Reeweg,Netherlands,0.02,0.0,0.0,0.0,0.0163,0.0255
+Doninos,Spain,0.02,0.0,0.0,0.0149,0.0028,0.0041
+Garda,Italy,0.02,0.0,0.2255,0.0,0.0019,0.0
+Simnas,Lithouania,0.02,0.093,0.1088,1.6451,0.0225,0.5492
+Iseo,Italy,0.02,0.002,0.0312,0.0,0.0021,0.0
+Harkmerifjarden,Finland,0.02,0.0,0.0,0.0,0.0,0.0
+Mollakoy,Turkey,0.02,0.0,0.0,0.0,0.0,0.0
+Embalse de Tous,Spain,0.02,0.0,0.0,0.0,0.0,0.0
+Grosser Dabelowsee,Germany,0.02,0.0,0.0,0.0,0.0,0.0
+Pniewskie,Poland,0.02,0.021,0.0,0.1674,0.0028,0.0895
+Gaustvinis,Lithouania,0.02,0.014,0.0,0.2252,0.0122,0.1002
+Hallwil,Switzerland,0.02,0.071,0.3016,0.0,0.2896,0.0051
+Ak lake,Turkey,0.02,0.002,0.0,0.0,0.0168,1.1479
+Bajer,Croatia,0.02,0.0,0.0,0.0,0.0,0.0
+Greifen,Switzerland,0.02,0.0,0.0,0.0,0.0,0.0
+Uzarzewskie,Poland,0.02,0.002,0.6235,0.0,0.0539,0.0
+Templehouse,Ireland,0.02,0.0,0.0,0.0,0.0028,0.0
+Pfaffikon,Switzerland,0.02,0.005,0.0,0.0,0.011,0.0
+Lagoa Verde,Portugal,0.02,0.002,0.0,0.0609,0.0,0.0042
+Zemplinska,Slovakia,0.02,0.002,0.0,0.0194,0.0,0.0078
+Uzungol,Turkey,0.02,0.0,0.0,0.0,0.0,0.0
+Vinne,Slovakia,0.02,0.002,0.0,0.1295,0.0028,0.0509
+Brenet,Switzerland,0.02,0.0,0.0,0.0,0.0011,0.0
+Geneva_GE3,Switzerland,0.02,0.0,0.0,0.0,0.0,0.0
+Podkamycze_1,Poland,0.03,0.0,0.0,0.0,0.0,0.0
+Strandsjon,Sweden,0.03,0.002,0.0,0.0,0.0,0.0
+Eastern Ringsjon,Sweden,0.03,0.01,0.2342,0.1816,0.0515,0.0739
+Cubuk,Turkey,0.03,0.0,0.0,0.0,0.0,0.0
+Boadella,Spain,0.03,0.0,0.0,0.0,0.0,0.0
+Basturs petit,Spain,0.03,0.0,0.0,0.0,0.0,0.0
+Bikowsee,Germany,0.03,0.044,0.0,0.0,0.0237,0.0
+Karacaoren_1,Turkey,0.03,0.0,0.0,0.0,0.0,0.0
+Cedillo,Spain,0.03,0.152,0.0747,1.523,0.055,1.3347
+Stortrasket,Finland,0.03,0.0,0.0,0.0,0.0,0.0
+Littoistenjarvi,Finland,0.03,0.002,0.0,0.3288,0.0975,0.1839
+Laguna Grande de Villafranca,Spain,0.03,0.0,0.0,0.0056,0.0,0.0
+Niedulis,Lithouania,0.03,0.12,5.181,0.0721,0.2691,0.0347
+Ribarroja Reservoir,Spain,0.03,0.0,0.0,0.0,0.0,0.0042
+Valdecanas,Spain,0.03,0.007,0.0,0.1143,0.0125,0.3204
+Basturs,Spain,0.03,0.0,0.0,0.0,0.0,0.0
+Zurich,Switzerland,0.03,0.191,1.0311,0.0,0.3319,0.0
+Peipsi,Estonia,0.03,0.017,0.0,0.1869,0.0221,0.1026
+Bassenthwaite,UK,0.03,0.0,0.0,0.0,0.0028,0.0
+Milltown,Ireland,0.03,0.0,0.0,0.0,0.0,0.0
+Debno,Poland,0.03,0.002,0.2503,0.0,0.0229,0.0
+Lodzko Dymaczewskie,Poland,0.03,1.266,6.2518,0.0,1.0764,0.0429
+Czerniakowskie,Poland,0.03,0.007,0.0,0.1036,0.0,0.0427
+Bagsvaerd ,Denmark,0.03,0.059,0.0,0.1365,0.0095,0.1327
+Zemborzycki,Poland,0.03,0.002,0.0,0.0539,0.0028,0.0151
+Savica,Croatia,0.03,0.0,0.0,0.0,0.0,0.0
+Farum ,Denmark,0.03,0.002,0.0,0.0,0.0,0.0
+Domjuchsee,Germany,0.03,0.0,0.0,0.0,0.0,0.0
+Sobrado,Spain,0.04,0.0,0.0,0.0,0.0,0.0
+Lubosinskie,Poland,0.04,0.855,4.7671,0.0,1.1346,0.0466
+Skanda,Poland,0.04,0.61,1.7397,0.0,0.2756,0.0
+Prebelowsee,Germany,0.04,0.0,0.0,0.0,0.0,0.0
+Constance,Germany,0.04,0.0,0.0,0.0,0.0,0.0
+Mequinenza Reservoir,Spain,0.04,0.0,0.0,0.0,0.0,0.0
+Podkamycze_2,Poland,0.04,0.108,0.0604,1.0054,0.0523,1.2578
+Matejovsky,Czech Republic,0.04,0.065,0.0,0.1211,0.0076,0.105
+Oberuckersee,Germany,0.04,0.002,0.0,0.0,0.0028,0.0115
+Kielpinskie,Poland,0.04,0.002,0.0,0.0,0.0,0.0
+Platinsee,Germany,0.04,0.002,0.0,0.0,0.0028,0.0
+Labusee,Germany,0.04,0.002,0.0,0.0,0.0092,0.0
+Mogan,Turkey,0.04,0.0,0.0,0.0,0.0,0.0
+Bninskie,Poland,0.04,0.0,0.0,0.0,0.0,0.0
+Valloxen,Sweden,0.04,4.921,0.0,0.0253,3.166,0.1614
+Grylewskie,Poland,0.04,0.014,0.0253,0.0649,0.0028,0.0642
+Vallfornes,Spain,0.04,0.0,1.8139,0.0,0.0,0.0
+Grosser Wentowsee,Germany,0.04,0.0,0.0,0.0,0.0,0.0
+Ikizcetepeler,Turkey,0.04,0.0,0.0,0.0,0.0,0.0
+Golhisar,Turkey,0.04,0.002,0.0,0.0075,0.0028,0.0035
+Butoniga,Croatia,0.04,0.0,0.0,0.0,0.0,0.0
+Eymir,Turkey,0.04,0.013,0.0514,0.7075,0.0075,0.247
+Egirdir_1,Turkey,0.04,0.0,0.0,0.0058,0.0,0.0
+Geneva_SHL2,Switzerland,0.04,0.0,0.0,0.0,0.0,0.0
+Raigastvere,Estonia,0.04,0.269,0.0,1.0175,0.0769,1.0917
+Lammijarv,Estonia,0.04,0.018,0.0,0.2356,0.0257,0.1198
+Windermere North Basin,UK,0.04,0.002,0.0,0.0,0.0129,0.0
+Bastrup ,Denmark,0.04,0.009,0.0,0.0301,0.0023,0.0186
+Levico,Italy,0.05,0.046,0.0251,0.0,0.2076,0.0
+Vransko,Croatia,0.05,0.0,0.0,0.0,0.0,0.0
+Jieznas,Lithouania,0.05,0.055,0.0,0.6232,0.0436,0.2533
+Lukstas,Lithouania,0.05,0.058,0.3418,0.7915,0.0714,0.3318
+Rekyva,Lithouania,0.05,0.017,0.0,0.0,0.0028,0.0466
+Dojran,Macedonia,0.05,0.058,0.0,0.8436,0.0573,1.7334
+Prespa,Macedonia,0.05,0.0,0.0,0.0,0.0,0.0
+Niepruszewskie,Poland,0.05,0.002,0.0,0.0913,0.0028,0.1171
+Track,Poland,0.05,0.007,0.0,0.0692,0.0028,0.0356
+Furnas,Portugal,0.05,0.002,0.0244,0.0179,0.0028,0.0042
+Malaren Ekoln,Sweden,0.05,0.046,0.292,0.0,0.1287,0.0129
+Limmaren,Sweden,0.05,0.099,0.0,0.6383,0.0369,0.6369
+Lotsjon,Sweden,0.05,0.005,0.0,0.0,0.0037,0.0042
+Gulbinas,Lithouania,0.05,0.015,2.8047,0.0,0.208,0.0
+Peto Jezero,Croatia,0.05,0.162,0.0611,1.1152,0.0289,0.6565
+Kuchajda,Slovakia,0.05,0.005,0.0,0.0629,0.0028,0.0541
+Uluabat,Turkey,0.05,0.005,0.0,0.0623,0.0028,0.0466
+Sugla,Turkey,0.05,0.0,0.0,0.0,0.0,0.0
+Wurlsee,Germany,0.05,0.0,0.0,0.0,0.0,0.0
+Wittwesee,Germany,0.05,0.002,0.0,0.0,0.0,0.0093
+Stolpsee,Germany,0.05,0.0,0.2123,0.0,0.0121,0.0
+Velke Dako,Czech Republic,0.05,0.002,0.0,0.0,0.0283,0.0
+Embalse del Cubillas,Spain,0.05,0.0,0.0,0.0,0.0,0.0
+Poyrazlar,Turkey,0.05,0.0,0.0,0.0,0.0,0.0
+Luhacovice,Czech Republic,0.05,0.002,0.0,0.0,0.0,0.0
+Kannaviou Reservoir,Cyprus,0.05,0.0,0.0,0.0,0.0,0.0
+Jyvasjarvi,Finland,0.05,0.002,0.0,0.0169,0.0035,0.0052
+Vortsjarv,Estonia,0.05,0.009,0.0,0.1194,0.0056,0.0333
+Sempacher,Switzerland,0.05,0.002,0.0,0.0,0.0036,0.0
+Marathonas,Greece,0.05,0.024,0.0,0.0228,0.0017,0.0384
+Henschotermeer,Netherlands,0.06,0.0,0.0,0.0,0.0,0.0
+Maltanski Reservoir,Poland,0.06,0.002,0.0,0.0,0.0,0.0042
+Majcz,Poland,0.06,0.002,0.0304,0.0,0.0025,0.0051
+Karacaoren_2,Turkey,0.06,0.0,0.0,0.0,0.0,0.0
+Plauersee,Germany,0.06,0.002,0.0293,0.0,0.0,0.0
+Erne,UK,0.06,0.0,0.0,0.0,0.0,0.0
+Sera,Turkey,0.06,0.0,0.0,0.0,0.0,0.0
+Stechlinsee,Germany,0.06,0.0,0.0,0.0,0.0058,0.0
+Njivice,Croatia,0.06,0.0,0.0,0.0,0.0,0.0167
+Zamolyi,Hungary,0.06,0.032,0.0,0.035,0.0028,0.0492
+Czarne,Poland,0.06,0.0,0.0,0.0,0.0,0.0
+Malinec,Slovakia,0.06,0.007,0.0,0.0508,0.0024,0.0381
+Haraldsted ,Denmark,0.06,0.034,0.0,0.6326,0.0147,0.3452
+Schwedtsee,Germany,0.06,0.014,0.1921,0.0,0.0194,0.0145
+Lesser Prespa,Greece,0.06,0.031,0.0,0.228,0.0081,0.1285
+Ponikve,Croatia,0.06,0.0,0.0,0.0,0.0,0.0
+Peixao,Portugal,0.06,0.0,0.0,0.0,0.0,0.0
+Swarzndzkie,Poland,0.06,0.0,0.0,0.0,0.0028,0.0
+Akgol,Turkey,0.06,0.0,0.0,0.0,0.0,0.0
+Gineitiskes,Lithouania,0.06,0.038,0.0,0.4241,0.1716,0.3984
+Beysehir_1,Turkey,0.06,0.0,0.0,0.0,0.0,0.0
+Tyniec_2,Poland,0.06,1.012,0.0859,2.7337,0.0871,3.968
+Taskisigi,Turkey,0.06,0.075,0.0907,1.1464,0.0469,1.8176
+Paradeniz,Turkey,0.06,0.002,0.0,0.0,0.0,0.0
+Rusalka,Poland,0.07,0.022,0.0,0.1442,0.0083,0.1052
+Elistvere,Estonia,0.07,0.025,0.0,0.0169,0.0062,0.0695
+Joux,Switzerland,0.07,0.028,0.0904,0.0,0.056,0.0029
+Gostei,Portugal,0.07,0.0,0.0,0.0,0.0,0.0
+Azibo,Portugal,0.07,0.0,0.0,0.0,0.0,0.0
+Morat,Switzerland,0.07,0.0,0.0,0.0,0.0,0.0042
+Lusowskie,Poland,0.07,0.0,0.0,0.0,0.0,0.0
+Saadjarv,Estonia,0.07,0.005,0.0,0.0,0.0054,0.0225
+Mikolajskie,Poland,0.07,0.079,0.1764,0.0,0.0618,0.0
+Rynskie,Poland,0.07,0.05,0.1629,0.0,0.0438,0.0
+Azul,Portugal,0.07,0.002,0.0,0.0426,0.0,0.0
+Erken,Sweden,0.07,0.002,0.0,0.0,0.0082,0.0
+Tiwarensee,Germany,0.07,0.0,0.0,0.0,0.0,0.0
+Pabezninkai,Lithouania,0.07,0.0,0.0,0.0,0.0,0.0
+Laguna de las Yeguas,Spain,0.07,0.0,0.0,0.0,0.0,0.0
+Kozjak,Croatia,0.07,0.0,0.0,0.0,0.0,0.0
+Karatas,Turkey,0.07,0.0,0.0,0.0,0.0,0.0
+As Forcadas Reservoir,Spain,0.07,0.003,0.0,0.0701,0.0207,0.6187
+Gumerdigin,Turkey,0.07,0.0,0.0,0.0,0.0,0.0
+Carwitzersee,Germany,0.08,0.002,0.0,0.0,0.0028,0.0
+As Conchas,Spain,0.08,0.0,0.0,0.0,0.0,0.0
+Campo,Italy,0.08,0.0,0.0,0.0,0.0,0.0
+Abegondo-Cecebre,Spain,0.08,0.003,0.0,0.058,0.1422,3.6829
+Vallentunasjon,Sweden,0.08,0.0,0.0,0.2124,0.0173,0.0984
+Rogozinskie,Poland,0.08,1.385,4.1723,0.0,1.9524,0.0
+Laguna Honda,Spain,0.08,0.018,0.0,0.0,0.0,0.1301
+Ukiel_2,Poland,0.08,0.002,0.2945,0.0,0.0217,0.0042
+Hamry,Czech Republic,0.08,0.002,0.0,0.0469,0.0028,0.0169
+Montcortes,Spain,0.08,0.002,0.0,0.0,0.0,0.0
+Sobron Resrbvoir,Spain,0.08,0.0,0.0,0.0,0.0,0.0
+Miranda,Portugal,0.08,0.0,0.0,0.0,0.0,0.0
+Muuratjarvi,Finland,0.08,0.0,0.0,0.0,0.0,0.0
+Dagowsee,Germany,0.08,0.018,0.3308,0.0,0.0521,0.0
+Nidzkie,Poland,0.08,1.407,2.4491,0.0,1.33,0.0369
+Neagh,UK,0.08,2.59,6.5903,0.0,2.8946,0.0756
+Kovada,Turkey,0.08,0.094,0.0446,1.0283,0.0523,1.3254
+Kleiner Wentowsee,Germany,0.08,0.002,0.0,0.0946,0.0,0.0262
+Cernek,Turkey,0.08,0.059,0.0,0.2744,0.0094,0.2406
+Scharmutzelsee,Germany,0.08,0.0,0.0,0.0,0.0027,0.0
+Sopen,Switzerland,0.09,0.04,0.0725,0.0,0.1148,0.0148
+Bret,Switzerland,0.09,0.002,0.0,0.0,0.0027,0.0042
+Serra Serrada,Portugal,0.09,0.0,0.0,0.0,0.0,0.0
+Probarskie,Poland,0.09,0.0,0.0,0.0,0.0,0.0
+Slaen,Denmark,0.09,0.002,0.0,0.0,0.0066,0.0
+Koningshoeve,Netherlands,0.09,0.002,0.0,0.0,0.0,0.0269
+Tyniec_1,Poland,0.09,0.046,0.0,0.0,0.0068,0.1594
+Baxe reservoir,Spain,0.09,0.0,0.0,0.0,0.0028,0.0086
+Karamik,Turkey,0.1,0.0,0.0,0.0,0.0,0.0
+Tunevannet,Norway,0.1,0.009,0.085,0.3229,0.022,0.0543
+Seydi,Turkey,0.1,0.0,0.0,0.0,0.0,0.0
+LangerSee,Germany,0.1,0.009,0.1884,0.0,0.0202,0.0
+Branas,Spain,0.1,0.0,0.0,0.0,0.0,0.0
+Ros,Poland,0.1,0.0,0.0,0.0,0.0,0.0
+Muggelsee,Germany,0.1,0.002,0.0,0.0424,0.0028,0.0385
+Kucuk Akgol,Turkey,0.11,0.045,0.0,0.5276,0.0166,0.2324
+Sepond_2,Sweden,0.11,0.0,0.0,0.0,0.0,0.0
+Acarlar,Turkey,0.11,0.002,0.0,0.0,0.0,0.0
+Put Van Drunen,Netherlands,0.11,0.0,0.0,0.0,0.0,0.0
+Tovel,Italy,0.11,0.0,0.0,0.0,0.0,0.0
+Empelse put,Netherlands,0.11,0.0,0.0,0.0,0.0,0.0
+Fure,Denmark,0.11,0.061,0.0,0.0544,0.0067,0.067
+Kouris Reservoir,Cyprus,0.11,0.0,0.0,0.0,0.0,0.0
+Peneireiro,Portugal,0.11,0.002,0.0,0.0095,0.0,0.0
+Kakskerranjarvi,Finland,0.12,0.0,0.0764,0.0,0.0024,0.0
+Divonne,Switzerland,0.12,0.0,0.0,0.0,0.0017,0.0187
+Yenicaga,Turkey,0.12,0.0,0.0,0.0,0.0028,0.0357
+Volvi,Greece,0.12,0.0,0.0,0.0,0.0,0.0
+Arungen,Norway,0.12,0.0,0.0,0.0,0.0,0.0
+Udrija,Lithouania,0.12,2.965,7.5326,0.0,2.5595,0.0
+Ladik,Turkey,0.12,0.0,0.0,0.0,0.0,0.0
+Akersvannet,Norway,0.12,0.01,0.0,0.21,0.0184,0.6356
+Lucerne,Switzerland,0.13,0.0,0.0,0.0,0.0,0.0
+Sitvys,Lithouania,0.13,0.143,3.5201,0.0,0.5038,0.0233
+Grasmere,UK,0.13,0.0,0.0,0.0,0.0,0.0
+Golcuk,Turkey,0.13,0.0,0.0,0.0,0.0,0.0
+Albufera de Valencia,Spain,0.13,0.002,0.0,0.0,0.0,0.053
+Pavin,FR,0.13,0.0,0.0,0.0,0.0028,0.0
+Akyatan,Turkey,0.14,0.0,0.0,0.0,0.0,0.0042
+Aladag,Turkey,0.14,0.0,0.0,0.0311,0.0,0.0107
+Laguna Escondida,Spain,0.14,0.0,0.0,0.0,0.0,0.0
+Leknenskie,Poland,0.14,5.05,12.5029,0.0,4.0492,0.0
+Wylerbergmeer,Netherlands,0.14,0.0,0.0,0.0,0.0,0.0
+Mondsee,Austria,0.15,0.0,0.0,0.0,0.0,0.0
+Ertveldplas,Netherlands,0.15,0.0,0.0,0.0,0.0,0.0
+Windermere South Basin,UK,0.15,0.002,0.0,0.0,0.0062,0.0042
+Brnenska prehrada,Czech Republic,0.15,0.006,0.0512,0.0686,0.0054,0.0228
+Vansjo-Vanemfjorden,Norway,0.15,0.002,0.0336,0.1177,0.0058,0.0425
+Ober ,Switzerland,0.15,0.0,0.0,0.0,0.0,0.0
+Bled,Slovenia,0.16,0.0,0.0,0.0,0.0,0.0
+Vombsjon,Sweden,0.16,0.023,0.0,0.1928,0.0098,0.0794
+Karadere,Turkey,0.16,0.0,0.0,0.0,0.0,0.0
+Ilinskie,Poland,0.16,0.004,0.3317,0.046,0.0452,0.0214
+Mastis,Lithouania,0.16,0.041,0.1663,0.8026,0.0669,0.3715
+Stooterplas,Netherlands,0.16,0.014,0.0,0.0372,0.0057,0.0435
+Skulerudsjoen,Norway,0.17,0.002,0.0,0.0,0.0,0.007
+Westbroekplas,Netherlands,0.17,0.002,0.095,0.0,0.0171,0.012
+Tomaszne,Poland,0.17,0.061,3.5556,0.3153,0.2266,0.0716
+Gajsevsko,Slovenia,0.17,0.0,0.0,0.0,0.0,0.0
+Sabanozu,Turkey,0.18,0.0,0.0,0.0,0.0,0.0
+Colgagh Lough,Ireland,0.18,0.0,0.0,0.0,0.0,0.0
+Sepond_1,Sweden,0.18,0.0,0.0,0.0,0.0,0.0
+Ostensjovannet,Norway,0.18,0.0,0.0,0.0,0.0,0.0
+Bartezek,Poland,0.18,0.249,0.3001,0.0,0.1195,0.0
+Akaki_Malounda,Cyprus,0.18,0.0,0.0,0.0,0.0,0.0
+Boskovice,Czech Republic,0.19,0.005,0.0,0.026,0.0017,0.0113
+Polemidia,Cyprus,0.19,0.0,0.0,0.0,0.0,0.0
+Mjaer,Norway,0.2,0.0,0.0,0.0,0.0,0.0
+Karaoren,Turkey,0.2,0.0,0.0,0.0,0.0,0.0
+Laguna Sur,Spain,0.2,0.0,0.0,0.0,0.0,0.0
+Biale Sosnowickie,Poland,0.21,0.066,0.0,2.017,0.0372,0.4328
+Nove Mlyny II,Czech Republic,0.22,0.002,0.0,0.0,0.0,0.0191
+Wolnica,Poland,0.22,0.002,0.0,0.0,0.0,0.0047
+Novovesky,Czech Republic,0.23,0.0,0.0,0.0,0.0,0.0
+Laguna Camarones,Spain,0.23,0.0,0.411,0.0,0.0,0.0
+Hillestadvannet,Norway,0.24,0.374,0.2166,3.3088,0.1129,2.2819
+Asprokremmos Reservoir,Cyprus,0.25,0.0,0.0,0.0,0.0,0.0
+Caygoren,Turkey,0.25,0.0,0.0,0.0,0.0,0.0
+El Foix,Spain,0.27,0.0,0.0,0.0,0.0,0.0
+Ledavsko,Slovenia,0.27,0.002,0.0,0.0,0.0,0.0
+Saebyvannet,Norway,0.27,0.0,0.0605,0.0,0.0042,0.0
+Amstelveense,Netherlands,0.29,0.088,0.3829,1.9873,0.0569,1.4138
+Laguna Canas,Spain,0.29,0.0,0.0,0.0,0.0,0.0
+Sloterplas,Netherlands,0.29,0.001,0.0,0.0,0.0028,0.0066
+Nieuwe Meer,Netherlands,0.3,0.0,0.0,0.0,0.0,0.0
+Nesyt,Czech Republic,0.33,0.0,0.0,0.0,0.0151,0.0
+Saraykoy,Turkey,0.37,0.0,0.0,0.0,0.0,0.0
+Molenplas,Netherlands,0.41,0.0,0.0,0.0,0.0,0.0
+Pernica,Slovenia,0.46,0.002,0.0,0.0,0.0,0.0
+Azutan,Spain,0.5,0.0,0.0,0.0,0.0,0.0
+Syczynskie,Poland,0.51,0.104,14.8923,0.5807,1.6059,0.0
+Catalan,Turkey,0.54,0.0,0.0,0.0,0.0,0.0
+Meerwijkplas,Netherlands,0.61,0.002,0.0,0.0,0.0028,0.0261
+Eber,Turkey,0.64,0.002,0.0,0.0361,0.0,0.0125
+Laguna Rio Viejo,Spain,0.82,0.0,0.0,0.0,0.0,0.0
+Kinselmeer,Netherlands,0.87,1.37,9.0768,0.0,2.0126,0.1096
+Seyhan,Turkey,1.03,0.002,0.0,0.0,0.0,0.0
